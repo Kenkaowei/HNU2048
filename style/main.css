@@ -15,14 +15,8 @@ html, body {
 } */
 
 body {
-   /*background-image: url("../pokeimg/背景图.jpg");
-  background-repeat: no-repeat;
-  /* width: 100%; */
-  background-position:center;
-  background-size: cover;
-  background-attachment: fixed; */
-  /* background-size: auto 50%; */
-   background-image: url("../pokeimg/背景图.jpg");
+  
+  background-image: url("../pokeimg/背景图.jpg");
   position:center;
   top: 0;
   left: 0;
